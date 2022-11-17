@@ -3,6 +3,9 @@ body {
     background-color: rgb(54, 70, 85);
 }
 
-p {
-    tfont font-weight: 600;
+#desc {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+p {
+    font-weight: 500;
+    }
