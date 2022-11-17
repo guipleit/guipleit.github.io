@@ -6,6 +6,20 @@ body {
 #desc {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+#desc2 {
+    font-family: 'Calibri';
+}
 p {
     font-weight: 500;
     }
+.hab1 {
+    font-size: 20px;
+}
+
+.hab2 {
+    font-size: 18px;
+}
+
+.hab3 {
+    font-size: 16px;
+}
