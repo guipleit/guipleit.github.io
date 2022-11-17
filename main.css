@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: slategrey;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    border: 300px
+}
