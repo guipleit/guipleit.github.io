@@ -1,22 +1,22 @@
 body {
     text-align: center;
-    background-color: rgb(54, 70, 85);
+    background-color: rgb(55, 63, 71);
 }
 
 p {
-    tfont font-weight: 600;
+    font-weight: 600;
 }
 .header {
     height: 500px
 }
 
 .header-text {
-    margin-top: 150px;
+    margin-top: 160px;
     margin-right: 400px;
     text-align: center;
     float: right;
     min-width: 30%;
-    display: inline-block;
+    
 }
 
 .header-photo {
@@ -25,6 +25,17 @@ p {
     border: 2px solid black;
     margin-left: 600px;
     margin-top: 50px;
-    display: inline-block;
-    float: left
-}
+    float: left;
+    }
+    
+    .habilities {
+        padding: 20px;
+    }
+    
+    .index {
+        padding: 20px;
+    }
+    
+    .habilities p:nth-child(even) {
+        color: rgb(182, 180, 207);
+    }
