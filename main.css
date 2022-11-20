@@ -6,3 +6,25 @@ body {
 p {
     tfont font-weight: 600;
 }
+.header {
+    height: 500px
+}
+
+.header-text {
+    margin-top: 150px;
+    margin-right: 400px;
+    text-align: center;
+    float: right;
+    min-width: 30%;
+    display: inline-block;
+}
+
+.header-photo {
+    float: left;
+    width: 250px;
+    border: 2px solid black;
+    margin-left: 600px;
+    margin-top: 50px;
+    display: inline-block;
+    float: left
+}
