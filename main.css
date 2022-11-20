@@ -1,8 +1,41 @@
 body {
     text-align: center;
-    background-color: rgb(54, 70, 85);
+    background-color: rgb(55, 63, 71);
 }
 
 p {
-    tfont font-weight: 600;
+    font-weight: 600;
 }
+.header {
+    height: 500px
+}
+
+.header-text {
+    margin-top: 160px;
+    margin-right: 400px;
+    text-align: center;
+    float: right;
+    min-width: 30%;
+    
+}
+
+.header-photo {
+    float: left;
+    width: 250px;
+    border: 2px solid black;
+    margin-left: 600px;
+    margin-top: 50px;
+    float: left;
+    }
+    
+    .habilities {
+        padding: 20px;
+    }
+    
+    .index {
+        padding: 20px;
+    }
+    
+        .habilities p:nth-child(odd) {
+        color: rgb(182, 180, 207);
+    }
