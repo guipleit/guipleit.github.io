@@ -36,6 +36,6 @@ p {
         padding: 20px;
     }
     
-    .habilities p:nth-child(even) {
+        .habilities p:nth-child(odd) {
         color: rgb(182, 180, 207);
     }
